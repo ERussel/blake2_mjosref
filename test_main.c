@@ -3,8 +3,8 @@
 
 #include <stdio.h>
 
-#include "blake2b.h"
-#include "blake2s.h"
+#include "blake2/blake2b.h"
+#include "blake2/blake2s.h"
 
 // Deterministic sequences (Fibonacci generator).
 
